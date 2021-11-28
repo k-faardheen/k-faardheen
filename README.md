@@ -11,5 +11,5 @@
 <ul><samp>
     <li>🫂 Family and friends are my absolute everything.</li>
     <li>✈️ Love to travel and discover new places and cultures.</li>
-    <li>⚽️🏎 Passionate about Football and Formula One.</li>
+    <li>⚽️ 🏎 Passionate about Football and Formula One.</li>
 </ul></samp>

@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/faardheen)](https://www.instagram.com/faardheen)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:k.faardheen@gmail.com)](k.faardheen@gmail.com)
 
-## <samp>Hello World!</samp> <img src="https://github.com/k-faardheen/k-faardheen/blob/master/assets/earth.gif" width="22px">
+## <samp>Hello World!</samp> <img src="./assets/earth.gif" width="22px">
 
 <samp>My name is Faardheen Khodabuccus, Currently a 1st year Applied Computing student at the  <a href="uom.ac.mu"> University of Mauritius</a>. A prospective <strong>Software Engineer</strong><img src="./assets/developer.gif" width="22px"> who is <i><strong>obsessed</strong></i> with the idea of <i><strong>improving</strong></i> himself to excel in achieving his <i><strong>dream career</strong></i>.<img src="./assets/Medal.gif" width="22px"></samp>
 
